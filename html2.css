@@ -1,0 +1,94 @@
+.head {
+	background: #CF4390;
+	height: 100px;	
+}
+.text1{
+	text-align: center;
+	padding: 30px;
+	float: right;
+}
+.x {
+	width: 7%;
+	height: 20px;
+	padding: 20px;
+}
+.x2{
+	background: white;
+	text-align: center;
+}
+.left{
+	width: 20%;
+	height: 300px;
+	background: #D3BDC9;
+	text-align: center;
+	float: left;
+}
+.long{
+	width: 80%;
+	height: 20px;
+	background: #F99395;
+	float: right;
+	text-align: right;
+}
+.third{
+	width: 80%;
+	float: right;
+	height: 300px;
+}
+.white{
+	background: white;
+	width: 60%;
+	height: 275px;
+	text-align: center;
+	float: left;
+	position: relative;
+	
+}
+.green{
+	background: green;
+	width: 100%;
+	height: 20px;
+	bottom: 0;
+	position: absolute;
+}
+.right{
+	width: 20%;
+	height: 280px;
+	background: #efff7c;
+	float: right;
+}
+.bottom {
+	background: #A9D7B5;
+	width: 100%;
+	height: 150px; 
+	position: absolute;
+	bottom: 0;
+
+}
+.text2{
+	text-align: right;
+	padding: 30px;
+	float: left;
+}
+.y {
+	width: 7%;
+	height: 20px;
+	padding: 20px;
+	float: right;
+}
+.y2{
+
+	background: white;
+	text-align: left;
+}
+.menu{
+	text-align: center;
+	padding: 20%;
+}
+.info2{
+	text-align: center;
+	padding-top: 40%;
+}
+.center_info{
+	padding: 30px;
+}
